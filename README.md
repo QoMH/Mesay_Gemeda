@@ -1,8 +1,8 @@
-# Mesay_Gemeda-QoMH-
 <div class="container">
-   <h1>Dan Englishby</h1>
+   <h1>Mesay Gemeda Yigezu</h1>
    <h3>Personal Profile</h3>
-   <a href="https://imgbb.com/"><img src="https://i.ibb.co/pdJfzx9/profile-picture.jpg" alt="profile-picture" border="0" /></a>
+   <a href=" https://github.com/account/"><img src="https://i.ibb.co/pdJfzx9/profile-picture.jpg" alt="profile-picture" border="0" /></a>
+  
    <h4>About Me</h4>
    <p>Hi, I'm Mesay Gemeda Yigezu, I have a huge passion for web-development and programming. I love to learn and thrive from challenges.</p>
    <h4>My Skills</h4>
