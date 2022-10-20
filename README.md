@@ -1,7 +1,7 @@
 <div class="container">
    <h1>Mesay Gemeda Yigezu</h1>
    <h3>Personal Profile</h3>
-   <a href=" https://github.com/account/"><img src="https://i.ibb.co/pdJfzx9/profile-picture.jpg" alt="profile-picture" border="0" /></a>
+   <a href="https://ibb.co/2svh3Jc"><img src="https://i.ibb.co/Tb42MyP/profile.jpg" alt="profile" border="0"></a>
   
    <h4>About Me</h4>
    <p>Hi, I'm Mesay Gemeda Yigezu, I have a huge passion for web-development and programming. I love to learn and thrive from challenges.</p>
