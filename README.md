@@ -39,12 +39,8 @@
      </div>   
 </div>
 <h4>Social Media</h4>
-Catch me on <a href="https://imgbb.com/"><img src="https://i.ibb.co/X41wFzc/logo.png" alt="logo" border="0" width="20" height="20"></a><a href="https://twitter.com/Mesay_Gemeda">@Mesay</a><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0mwJL2W/images.jpg" alt="images" border="0" width="20" height="20"></a><a href="https://https://www.facebook.com/mesay.gemeda">@Mesay</a><br>
-
-   <a href="https://ibb.co/6PppGK1"><img src="https://i.ibb.co/T8nnJQb/800px-Linked-In-logo-initials.png" alt="800px-Linked-In-logo-initials" border="0" width="20" height="20"></a> <a href="https://www.linkedin.com/in/mesay-gemeda-9a9986112/">@Mesay</a><br>
-
-   on Github - <a href="https://twitter.com/DanEnglishby">@Mesay</a><br>
+Catch me on <a href="https://imgbb.com/"><img src="https://i.ibb.co/X41wFzc/logo.png" alt="logo" border="0" width="20" height="20"></a><a href="https://twitter.com/Mesay_Gemeda">@Mesay</a> <a href="https://imgbb.com/"><img src="https://i.ibb.co/0mwJL2W/images.jpg" alt="images" border="0" width="20" height="20"></a><a href="https://https://www.facebook.com/mesay.gemeda">@Mesay</a> <a href="https://ibb.co/6PppGK1"><img src="https://i.ibb.co/T8nnJQb/800px-Linked-In-logo-initials.png" alt="800px-Linked-In-logo-initials" border="0" width="20" height="20"></a> <a href="https://www.linkedin.com/in/mesay-gemeda-9a9986112/">@Mesay</a>
+ on Github - <a href="https://twitter.com/DanEnglishby">@Mesay</a>
    
 
  
