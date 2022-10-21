@@ -1,5 +1,4 @@
 <div class="container">
-   #<h2>Mesay Gemeda Yigezu</h2>#
    <h3>Personal Profile</h3>
    <a href="https://ibb.co/2svh3Jc"><img src="https://i.ibb.co/Tb42MyP/profile.jpg" alt="profile" border="0" width="150" height="150"></a>  
    <h4>About Me</h4>   
